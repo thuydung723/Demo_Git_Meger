@@ -1,0 +1,1 @@
+Sửa nội dung file C2.txt thành file B2 trên nhánh Beta
