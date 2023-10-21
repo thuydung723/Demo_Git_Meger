@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sửa nội dung file C1.txt thành file D1.txt trên nhánh master
+=======
+Sửa nội dung file C1.txt để chuyển thành file B1 trên nhánh Beta
+>>>>>>> Beta
